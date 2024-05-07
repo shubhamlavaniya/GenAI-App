@@ -1,0 +1,1729 @@
+[
+    {
+        "label": "create_app",
+        "importPath": "app.web",
+        "description": "app.web",
+        "isExtraImport": true,
+        "detail": "app.web",
+        "documentation": {}
+    },
+    {
+        "label": "files",
+        "importPath": "app.web",
+        "description": "app.web",
+        "isExtraImport": true,
+        "detail": "app.web",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCallbackHandler",
+        "importPath": "langchain.callbacks.base",
+        "description": "langchain.callbacks.base",
+        "isExtraImport": true,
+        "detail": "langchain.callbacks.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCallbackHandler",
+        "importPath": "langchain.callbacks.base",
+        "description": "langchain.callbacks.base",
+        "isExtraImport": true,
+        "detail": "langchain.callbacks.base",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationalRetrievalChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "LLMChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "StreamableChain",
+        "importPath": "app.chat.chains.stremable",
+        "description": "app.chat.chains.stremable",
+        "isExtraImport": true,
+        "detail": "app.chat.chains.stremable",
+        "documentation": {}
+    },
+    {
+        "label": "TraceableChain",
+        "importPath": "app.chat.chains.traceble",
+        "description": "app.chat.chains.traceble",
+        "isExtraImport": true,
+        "detail": "app.chat.chains.traceble",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "g",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_from_directory",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "g",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "stream_with_context",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "g",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "g",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "queue",
+        "description": "queue",
+        "isExtraImport": true,
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "queue",
+        "description": "queue",
+        "isExtraImport": true,
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingHandler",
+        "importPath": "app.chat.callbacks.stream",
+        "description": "app.chat.callbacks.stream",
+        "isExtraImport": true,
+        "detail": "app.chat.callbacks.stream",
+        "documentation": {}
+    },
+    {
+        "label": "langfuse",
+        "importPath": "app.chat.tracing.langfuse",
+        "description": "app.chat.tracing.langfuse",
+        "isExtraImport": true,
+        "detail": "app.chat.tracing.langfuse",
+        "documentation": {}
+    },
+    {
+        "label": "langfuse",
+        "importPath": "app.chat.tracing.langfuse",
+        "description": "app.chat.tracing.langfuse",
+        "isExtraImport": true,
+        "detail": "app.chat.tracing.langfuse",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTrace",
+        "importPath": "langfuse.model",
+        "description": "langfuse.model",
+        "isExtraImport": true,
+        "detail": "langfuse.model",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTrace",
+        "importPath": "langfuse.model",
+        "description": "langfuse.model",
+        "isExtraImport": true,
+        "detail": "langfuse.model",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain.embeddings",
+        "description": "langchain.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "app.chat.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.chat.models",
+        "description": "app.chat.models",
+        "detail": "app.chat.models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatArgs",
+        "importPath": "app.chat.models",
+        "description": "app.chat.models",
+        "isExtraImport": true,
+        "detail": "app.chat.models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain.chat_models",
+        "description": "langchain.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain.chat_models",
+        "description": "langchain.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain.chat_models",
+        "description": "langchain.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseChatMessageHistory",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferWindowMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "SqlMessageHistory",
+        "importPath": "app.chat.memories.histories.sql_history",
+        "description": "app.chat.memories.histories.sql_history",
+        "isExtraImport": true,
+        "detail": "app.chat.memories.histories.sql_history",
+        "documentation": {}
+    },
+    {
+        "label": "SqlMessageHistory",
+        "importPath": "app.chat.memories.histories.sql_history",
+        "description": "app.chat.memories.histories.sql_history",
+        "isExtraImport": true,
+        "detail": "app.chat.memories.histories.sql_history",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Langfuse",
+        "importPath": "langfuse.client",
+        "description": "langfuse.client",
+        "isExtraImport": true,
+        "detail": "langfuse.client",
+        "documentation": {}
+    },
+    {
+        "label": "pinecone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pinecone",
+        "description": "pinecone",
+        "detail": "pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "importPath": "app.chat.embeddings.openai",
+        "description": "app.chat.embeddings.openai",
+        "isExtraImport": true,
+        "detail": "app.chat.embeddings.openai",
+        "documentation": {}
+    },
+    {
+        "label": "Pinecone",
+        "importPath": "langchain.vectorstores.pinecone",
+        "description": "langchain.vectorstores.pinecone",
+        "isExtraImport": true,
+        "detail": "langchain.vectorstores.pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "retriever_map",
+        "importPath": "app.chat.vector_stores",
+        "description": "app.chat.vector_stores",
+        "isExtraImport": true,
+        "detail": "app.chat.vector_stores",
+        "documentation": {}
+    },
+    {
+        "label": "llm_map",
+        "importPath": "app.chat.llms",
+        "description": "app.chat.llms",
+        "isExtraImport": true,
+        "detail": "app.chat.llms",
+        "documentation": {}
+    },
+    {
+        "label": "memory_map",
+        "importPath": "app.chat.memories",
+        "description": "app.chat.memories",
+        "isExtraImport": true,
+        "detail": "app.chat.memories",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingConversationalRetrievalChain",
+        "importPath": "app.chat.chains.retrieval",
+        "description": "app.chat.chains.retrieval",
+        "isExtraImport": true,
+        "detail": "app.chat.chains.retrieval",
+        "documentation": {}
+    },
+    {
+        "label": "get_conversation_components",
+        "importPath": "app.web.api",
+        "description": "app.web.api",
+        "isExtraImport": true,
+        "detail": "app.web.api",
+        "documentation": {}
+    },
+    {
+        "label": "set_conversation_components",
+        "importPath": "app.web.api",
+        "description": "app.web.api",
+        "isExtraImport": true,
+        "detail": "app.web.api",
+        "documentation": {}
+    },
+    {
+        "label": "set_conversation_components",
+        "importPath": "app.web.api",
+        "description": "app.web.api",
+        "isExtraImport": true,
+        "detail": "app.web.api",
+        "documentation": {}
+    },
+    {
+        "label": "get_conversation_components",
+        "importPath": "app.web.api",
+        "description": "app.web.api",
+        "isExtraImport": true,
+        "detail": "app.web.api",
+        "documentation": {}
+    },
+    {
+        "label": "build_retriver",
+        "importPath": "app.chat.vector_stores.pinecone",
+        "description": "app.chat.vector_stores.pinecone",
+        "isExtraImport": true,
+        "detail": "app.chat.vector_stores.pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "vector_store",
+        "importPath": "app.chat.vector_stores.pinecone",
+        "description": "app.chat.vector_stores.pinecone",
+        "isExtraImport": true,
+        "detail": "app.chat.vector_stores.pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "random_component_by_score",
+        "importPath": "app.chat.score",
+        "description": "app.chat.score",
+        "isExtraImport": true,
+        "detail": "app.chat.score",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "importPath": "app.chat.redis",
+        "description": "app.chat.redis",
+        "isExtraImport": true,
+        "detail": "app.chat.redis",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.web.db",
+        "description": "app.web.db",
+        "isExtraImport": true,
+        "detail": "app.web.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.web.db",
+        "description": "app.web.db",
+        "isExtraImport": true,
+        "detail": "app.web.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.web.db",
+        "description": "app.web.db",
+        "isExtraImport": true,
+        "detail": "app.web.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.web.db",
+        "description": "app.web.db",
+        "isExtraImport": true,
+        "detail": "app.web.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.web.db",
+        "description": "app.web.db",
+        "isExtraImport": true,
+        "detail": "app.web.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.web.db",
+        "description": "app.web.db",
+        "isExtraImport": true,
+        "detail": "app.web.db",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain.schema.messages",
+        "description": "langchain.schema.messages",
+        "isExtraImport": true,
+        "detail": "langchain.schema.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema.messages",
+        "description": "langchain.schema.messages",
+        "isExtraImport": true,
+        "detail": "langchain.schema.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain.schema.messages",
+        "description": "langchain.schema.messages",
+        "isExtraImport": true,
+        "detail": "langchain.schema.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain.schema.messages",
+        "description": "langchain.schema.messages",
+        "isExtraImport": true,
+        "detail": "langchain.schema.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema.messages",
+        "description": "langchain.schema.messages",
+        "isExtraImport": true,
+        "detail": "langchain.schema.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain.schema.messages",
+        "description": "langchain.schema.messages",
+        "isExtraImport": true,
+        "detail": "langchain.schema.messages",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "Pdf",
+        "importPath": "app.web.db.models",
+        "description": "app.web.db.models",
+        "isExtraImport": true,
+        "detail": "app.web.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.web.db.models",
+        "description": "app.web.db.models",
+        "isExtraImport": true,
+        "detail": "app.web.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Pdf",
+        "importPath": "app.web.db.models",
+        "description": "app.web.db.models",
+        "isExtraImport": true,
+        "detail": "app.web.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Conversation",
+        "importPath": "app.web.db.models",
+        "description": "app.web.db.models",
+        "isExtraImport": true,
+        "detail": "app.web.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Pdf",
+        "importPath": "app.web.db.models",
+        "description": "app.web.db.models",
+        "isExtraImport": true,
+        "detail": "app.web.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Conversation",
+        "importPath": "app.web.db.models",
+        "description": "app.web.db.models",
+        "isExtraImport": true,
+        "detail": "app.web.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "app.web.db.models",
+        "description": "app.web.db.models",
+        "isExtraImport": true,
+        "detail": "app.web.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.web.db.models",
+        "description": "app.web.db.models",
+        "isExtraImport": true,
+        "detail": "app.web.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "app.web.db.models",
+        "description": "app.web.db.models",
+        "isExtraImport": true,
+        "detail": "app.web.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "download",
+        "importPath": "app.web.files",
+        "description": "app.web.files",
+        "isExtraImport": true,
+        "detail": "app.web.files",
+        "documentation": {}
+    },
+    {
+        "label": "create_embeddings_for_pdf",
+        "importPath": "app.chat",
+        "description": "app.chat",
+        "isExtraImport": true,
+        "detail": "app.chat",
+        "documentation": {}
+    },
+    {
+        "label": "build_chat",
+        "importPath": "app.chat",
+        "description": "app.chat",
+        "isExtraImport": true,
+        "detail": "app.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatArgs",
+        "importPath": "app.chat",
+        "description": "app.chat",
+        "isExtraImport": true,
+        "detail": "app.chat",
+        "documentation": {}
+    },
+    {
+        "label": "score_conversation",
+        "importPath": "app.chat",
+        "description": "app.chat",
+        "isExtraImport": true,
+        "detail": "app.chat",
+        "documentation": {}
+    },
+    {
+        "label": "get_scores",
+        "importPath": "app.chat",
+        "description": "app.chat",
+        "isExtraImport": true,
+        "detail": "app.chat",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "isExtraImport": true,
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "isExtraImport": true,
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "isExtraImport": true,
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "handle_file_upload",
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "isExtraImport": true,
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "isExtraImport": true,
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "isExtraImport": true,
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "isExtraImport": true,
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "Unauthorized",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequest",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Unauthorized",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequest",
+        "importPath": "werkzeug.exceptions",
+        "description": "werkzeug.exceptions",
+        "isExtraImport": true,
+        "detail": "werkzeug.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "process_document",
+        "importPath": "app.web.tasks.embeddings",
+        "description": "app.web.tasks.embeddings",
+        "isExtraImport": true,
+        "detail": "app.web.tasks.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "Conversation",
+        "importPath": "app.web.db.models.conversation",
+        "description": "app.web.db.models.conversation",
+        "isExtraImport": true,
+        "detail": "app.web.db.models.conversation",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "app.web.config",
+        "description": "app.web.config",
+        "isExtraImport": true,
+        "detail": "app.web.config",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "NoResultFound",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "task",
+        "importPath": "invoke",
+        "description": "invoke",
+        "isExtraImport": true,
+        "detail": "invoke",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "flask_app",
+        "kind": 5,
+        "importPath": "app.celery.worker",
+        "description": "app.celery.worker",
+        "peekOfCode": "flask_app = create_app()\ncelery_app = flask_app.extensions[\"celery\"]",
+        "detail": "app.celery.worker",
+        "documentation": {}
+    },
+    {
+        "label": "celery_app",
+        "kind": 5,
+        "importPath": "app.celery.worker",
+        "description": "app.celery.worker",
+        "peekOfCode": "celery_app = flask_app.extensions[\"celery\"]",
+        "detail": "app.celery.worker",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingHandler",
+        "kind": 6,
+        "importPath": "app.chat.callbacks.stream",
+        "description": "app.chat.callbacks.stream",
+        "peekOfCode": "class StreamingHandler(BaseCallbackHandler):\n    def __init__(self,queue):\n        self.queue = queue\n        self.streaming_run_ids = set()\n    def on_chat_model_start(self, serialized, messages,run_id, **kwargs):\n        if serialized[\"kwargs\"][\"streaming\"]:\n            self.streaming_run_ids.add(run_id)\n    def on_llm_new_token(self,token, **kwargs):\n        #print(token)\n        self.queue.put(token)",
+        "detail": "app.chat.callbacks.stream",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingConversationalRetrievalChain",
+        "kind": 6,
+        "importPath": "app.chat.chains.retrieval",
+        "description": "app.chat.chains.retrieval",
+        "peekOfCode": "class StreamingConversationalRetrievalChain(\n    TraceableChain, StreamableChain, ConversationalRetrievalChain\n):\n    pass",
+        "detail": "app.chat.chains.retrieval",
+        "documentation": {}
+    },
+    {
+        "label": "StreamableChain",
+        "kind": 6,
+        "importPath": "app.chat.chains.stremable",
+        "description": "app.chat.chains.stremable",
+        "peekOfCode": "class StreamableChain:\n    def stream(self,input):\n        # print((self(input)))\n        # yield 'hi'\n        # yield 'there'\n        queue =  Queue()\n        handler = StreamingHandler(queue)\n        def task(app_context):\n            app_context.push()\n            self(input,callbacks=[handler])",
+        "detail": "app.chat.chains.stremable",
+        "documentation": {}
+    },
+    {
+        "label": "TraceableChain",
+        "kind": 6,
+        "importPath": "app.chat.chains.traceble",
+        "description": "app.chat.chains.traceble",
+        "peekOfCode": "class TraceableChain:\n    def __call__(self, *args, **kwargs):\n        trace = langfuse.trace(\n            CreateTrace(\n                id = self.metadata[\"conversation_id\"],\n                metadata=self.metadata\n        )\n    )\n        callbacks= kwargs.get(\"callbacks\",[])\n        callbacks.append(trace.getNewHandler())",
+        "detail": "app.chat.chains.traceble",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "app.chat.embeddings.openai",
+        "description": "app.chat.embeddings.openai",
+        "peekOfCode": "embeddings = OpenAIEmbeddings()",
+        "detail": "app.chat.embeddings.openai",
+        "documentation": {}
+    },
+    {
+        "label": "build_llm",
+        "kind": 2,
+        "importPath": "app.chat.llms.chatopenai",
+        "description": "app.chat.llms.chatopenai",
+        "peekOfCode": "def build_llm(chat_args,model_name):\n    return ChatOpenAI(\n        streaming=chat_args.streaming,\n        model_name=model_name\n    )",
+        "detail": "app.chat.llms.chatopenai",
+        "documentation": {}
+    },
+    {
+        "label": "SqlMessageHistory",
+        "kind": 6,
+        "importPath": "app.chat.memories.histories.sql_history",
+        "description": "app.chat.memories.histories.sql_history",
+        "peekOfCode": "class SqlMessageHistory(BaseChatMessageHistory,BaseModel):\n    conversation_id:str\n    @property\n    def messages(self):\n        return get_messages_by_conversation_id(self.conversation_id)\n    def add_message(self,message):\n        return add_message_to_conversation(\n            conversation_id=self.conversation_id,\n            role=message.type,\n            content=message.content",
+        "detail": "app.chat.memories.histories.sql_history",
+        "documentation": {}
+    },
+    {
+        "label": "build_memory",
+        "kind": 2,
+        "importPath": "app.chat.memories.sql_memory",
+        "description": "app.chat.memories.sql_memory",
+        "peekOfCode": "def build_memory(chat_args):\n    return ConversationBufferMemory(\n        chat_memory=SqlMessageHistory(\n            conversation_id=chat_args.conversation_id\n        ),\n        return_messages=True,\n        memory_key= \"chat_history\",\n        output_key= \"answer\"\n    )",
+        "detail": "app.chat.memories.sql_memory",
+        "documentation": {}
+    },
+    {
+        "label": "window_buffer_memory_builder",
+        "kind": 2,
+        "importPath": "app.chat.memories.window_memory",
+        "description": "app.chat.memories.window_memory",
+        "peekOfCode": "def window_buffer_memory_builder(chat_args):\n    return ConversationBufferWindowMemory(\n        memory_key=\"chat_history\",\n        output_key=\"answer\",\n        return_messages=True,\n        chat_memory=SqlMessageHistory(\n            conversation_id=chat_args.conversation_id\n        ),\n        k=2\n    )",
+        "detail": "app.chat.memories.window_memory",
+        "documentation": {}
+    },
+    {
+        "label": "build_retriver",
+        "kind": 2,
+        "importPath": "app.chat.vector_stores.pinecone",
+        "description": "app.chat.vector_stores.pinecone",
+        "peekOfCode": "def build_retriver(chat_args,k):\n    search_kwargs= {\n        \"filter\":{\"pdf_id\":chat_args.pdf_id},\n        \"k\":k\n    }\n    return vector_store.as_retriever(\n        search_kwargs=search_kwargs\n    )",
+        "detail": "app.chat.vector_stores.pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "vector_store",
+        "kind": 5,
+        "importPath": "app.chat.vector_stores.pinecone",
+        "description": "app.chat.vector_stores.pinecone",
+        "peekOfCode": "vector_store = Pinecone.from_existing_index(\n    os.getenv(\"PINECONE_INDEX_NAME\"),embeddings\n)\ndef build_retriver(chat_args,k):\n    search_kwargs= {\n        \"filter\":{\"pdf_id\":chat_args.pdf_id},\n        \"k\":k\n    }\n    return vector_store.as_retriever(\n        search_kwargs=search_kwargs",
+        "detail": "app.chat.vector_stores.pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "select_components",
+        "kind": 2,
+        "importPath": "app.chat.chat",
+        "description": "app.chat.chat",
+        "peekOfCode": "def select_components(\n        component_type, component_map, chat_args\n):\n    components = get_conversation_components(\n        chat_args.conversation_id\n    )\n    previous_component = components[component_type]\n    if previous_component:\n         # this is not the first message of the conversation\n        #and I need to use the same component again",
+        "detail": "app.chat.chat",
+        "documentation": {}
+    },
+    {
+        "label": "build_chat",
+        "kind": 2,
+        "importPath": "app.chat.chat",
+        "description": "app.chat.chat",
+        "peekOfCode": "def build_chat(chat_args: ChatArgs):\n    \"\"\"\n    :param chat_args: ChatArgs object containing\n        conversation_id, pdf_id, metadata, and streaming flag.\n    :return: A chain\n    Example Usage:\n        chain = build_chat(chat_args)\n    \"\"\"\n    retriever_name, retriever = select_components(\n        \"retriever\",",
+        "detail": "app.chat.chat",
+        "documentation": {}
+    },
+    {
+        "label": "create_embeddings_for_pdf",
+        "kind": 2,
+        "importPath": "app.chat.create_embeddings",
+        "description": "app.chat.create_embeddings",
+        "peekOfCode": "def create_embeddings_for_pdf(pdf_id: str, pdf_path: str):\n    \"\"\"\n    Generate and store embeddings for the given pdf\n    1. Extract text from the specified PDF.\n    2. Divide the extracted text into manageable chunks.\n    3. Generate an embedding for each chunk.\n    4. Persist the generated embeddings.\n    :param pdf_id: The unique identifier for the PDF.\n    :param pdf_path: The file path to the PDF.\n    Example Usage:",
+        "detail": "app.chat.create_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "app.chat.redis",
+        "description": "app.chat.redis",
+        "peekOfCode": "client = redis.Redis.from_url(\n    os.environ[\"REDIS_URI\"],\n    decode_responses=True\n)",
+        "detail": "app.chat.redis",
+        "documentation": {}
+    },
+    {
+        "label": "random_component_by_score",
+        "kind": 2,
+        "importPath": "app.chat.score",
+        "description": "app.chat.score",
+        "peekOfCode": "def random_component_by_score(component_type, component_map):\n    #make sure component_type is 'llm', 'retriever', 'memory'\n    if component_type not in [\"llm\", \"retriever\", \"memory\"]:\n        raise ValueError(\"Invalid component type\")\n    # From redis, get the hash containing the sum total scores for the given component type\n    values = client.hgetall(f\"{component_type}_score_values\")\n    counts = client.hgetall(f\"{component_type}_score_counts\")\n    # get all the valid component name from the component map\n    names = component_map.keys()\n    avg_score={}",
+        "detail": "app.chat.score",
+        "documentation": {}
+    },
+    {
+        "label": "score_conversation",
+        "kind": 2,
+        "importPath": "app.chat.score",
+        "description": "app.chat.score",
+        "peekOfCode": "def score_conversation(\n    conversation_id: str, score: float, llm: str, retriever: str, memory: str\n) -> None:\n    \"\"\"\n    This function interfaces with langfuse to assign a score to a conversation, specified by its ID.\n    It creates a new langfuse score utilizing the provided llm, retriever, and memory components.\n    The details are encapsulated in JSON format and submitted along with the conversation_id and the score.\n    :param conversation_id: The unique identifier for the conversation to be scored.\n    :param score: The score assigned to the conversation.\n    :param llm: The Language Model component information.",
+        "detail": "app.chat.score",
+        "documentation": {}
+    },
+    {
+        "label": "get_scores",
+        "kind": 2,
+        "importPath": "app.chat.score",
+        "description": "app.chat.score",
+        "peekOfCode": "def get_scores():\n    \"\"\"\n    Retrieves and organizes scores from the langfuse client for different component types and names.\n    The scores are categorized and aggregated in a nested dictionary format where the outer key represents\n    the component type and the inner key represents the component name, with each score listed in an array.\n    The function accesses the langfuse client's score endpoint to obtain scores.\n    If the score name cannot be parsed into JSON, it is skipped.\n    :return: A dictionary organized by component type and name, containing arrays of scores.\n    Example:\n        {",
+        "detail": "app.chat.score",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "app.web.db.models.base",
+        "description": "app.web.db.models.base",
+        "peekOfCode": "class BaseModel(db.Model):\n    __abstract__ = True\n    @classmethod\n    def create(cls: Type[T], commit=True, **kwargs) -> T:\n        instance = cls(**kwargs)\n        return instance.save(commit)\n    @classmethod\n    def find_by(cls: Type[T], **kwargs) -> Optional[T]:\n        return db.session.execute(db.select(cls).filter_by(**kwargs)).scalar_one()\n    @classmethod",
+        "detail": "app.web.db.models.base",
+        "documentation": {}
+    },
+    {
+        "label": "T",
+        "kind": 5,
+        "importPath": "app.web.db.models.base",
+        "description": "app.web.db.models.base",
+        "peekOfCode": "T = TypeVar(\"T\", bound=\"BaseModel\")\nclass BaseModel(db.Model):\n    __abstract__ = True\n    @classmethod\n    def create(cls: Type[T], commit=True, **kwargs) -> T:\n        instance = cls(**kwargs)\n        return instance.save(commit)\n    @classmethod\n    def find_by(cls: Type[T], **kwargs) -> Optional[T]:\n        return db.session.execute(db.select(cls).filter_by(**kwargs)).scalar_one()",
+        "detail": "app.web.db.models.base",
+        "documentation": {}
+    },
+    {
+        "label": "Conversation",
+        "kind": 6,
+        "importPath": "app.web.db.models.conversation",
+        "description": "app.web.db.models.conversation",
+        "peekOfCode": "class Conversation(BaseModel):\n    id: str = db.Column(db.String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    created_on = db.Column(db.DateTime, server_default=db.func.now())\n    retriever: str = db.Column(db.String)\n    memory: str = db.Column(db.String)\n    llm: str = db.Column(db.String)\n    pdf_id: int = db.Column(db.Integer, db.ForeignKey(\"pdf.id\"), nullable=False)\n    pdf = db.relationship(\"Pdf\", back_populates=\"conversations\")\n    user_id: int = db.Column(db.Integer, db.ForeignKey(\"user.id\"), nullable=False)\n    user = db.relationship(\"User\", back_populates=\"conversations\")",
+        "detail": "app.web.db.models.conversation",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "app.web.db.models.message",
+        "description": "app.web.db.models.message",
+        "peekOfCode": "class Message(BaseModel):\n    id: str = db.Column(\n        db.String(), primary_key=True, default=lambda: str(uuid.uuid4())\n    )\n    created_on = db.Column(db.DateTime, server_default=db.func.now())\n    role: str = db.Column(db.String(), nullable=False)\n    content: str = db.Column(db.String(), nullable=False)\n    conversation_id: str = db.Column(\n        db.String(), db.ForeignKey(\"conversation.id\"), nullable=False\n    )",
+        "detail": "app.web.db.models.message",
+        "documentation": {}
+    },
+    {
+        "label": "Pdf",
+        "kind": 6,
+        "importPath": "app.web.db.models.pdf",
+        "description": "app.web.db.models.pdf",
+        "peekOfCode": "class Pdf(BaseModel):\n    id: str = db.Column(\n        db.String(), primary_key=True, default=lambda: str(uuid.uuid4())\n    )\n    name: str = db.Column(db.String(80), nullable=False)\n    user_id: int = db.Column(db.Integer, db.ForeignKey(\"user.id\"), nullable=False)\n    user = db.relationship(\"User\", back_populates=\"pdfs\")\n    conversations = db.relationship(\n        \"Conversation\",\n        back_populates=\"pdf\",",
+        "detail": "app.web.db.models.pdf",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.web.db.models.user",
+        "description": "app.web.db.models.user",
+        "peekOfCode": "class User(BaseModel):\n    id: str = db.Column(\n        db.String(), primary_key=True, default=lambda: str(uuid.uuid4())\n    )\n    email: str = db.Column(db.String(80), unique=True, nullable=False)\n    password: str = db.Column(db.String(80), nullable=False)\n    pdfs = db.relationship(\"Pdf\", back_populates=\"user\")\n    conversations = db.relationship(\"Conversation\", back_populates=\"user\")\n    def as_dict(self):\n        return {\"id\": self.id, \"email\": self.email}",
+        "detail": "app.web.db.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "process_document",
+        "kind": 2,
+        "importPath": "app.web.tasks.embeddings",
+        "description": "app.web.tasks.embeddings",
+        "peekOfCode": "def process_document(pdf_id: int):\n    pdf = Pdf.find_by(id=pdf_id)\n    with download(pdf.id) as pdf_path:\n        create_embeddings_for_pdf(pdf.id, pdf_path)",
+        "detail": "app.web.tasks.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "app.web.views.auth_views",
+        "description": "app.web.views.auth_views",
+        "peekOfCode": "def get_user():\n    if g.user is not None:\n        return g.user.as_dict()\n    return jsonify(None)\n@bp.route(\"/signup\", methods=[\"POST\"])\ndef signup():\n    email = request.json.get(\"email\")\n    password = request.json.get(\"password\")\n    user = User.create(email=email, password=generate_password_hash(password))\n    session[\"user_id\"] = user.id",
+        "detail": "app.web.views.auth_views",
+        "documentation": {}
+    },
+    {
+        "label": "signup",
+        "kind": 2,
+        "importPath": "app.web.views.auth_views",
+        "description": "app.web.views.auth_views",
+        "peekOfCode": "def signup():\n    email = request.json.get(\"email\")\n    password = request.json.get(\"password\")\n    user = User.create(email=email, password=generate_password_hash(password))\n    session[\"user_id\"] = user.id\n    return user.as_dict()\n@bp.route(\"/signin\", methods=[\"POST\"])\ndef signin():\n    email = request.json.get(\"email\")\n    password = request.json.get(\"password\")",
+        "detail": "app.web.views.auth_views",
+        "documentation": {}
+    },
+    {
+        "label": "signin",
+        "kind": 2,
+        "importPath": "app.web.views.auth_views",
+        "description": "app.web.views.auth_views",
+        "peekOfCode": "def signin():\n    email = request.json.get(\"email\")\n    password = request.json.get(\"password\")\n    user = User.find_by(email=email)\n    if not check_password_hash(user.password, password):\n        return {\"message\": \"Incorrect password.\"}, 400\n    session.permanent = True\n    session[\"user_id\"] = user.id\n    return user.as_dict()\n@bp.route(\"/signout\", methods=[\"POST\"])",
+        "detail": "app.web.views.auth_views",
+        "documentation": {}
+    },
+    {
+        "label": "signout",
+        "kind": 2,
+        "importPath": "app.web.views.auth_views",
+        "description": "app.web.views.auth_views",
+        "peekOfCode": "def signout():\n    session.clear()\n    return {\"message\": \"Successfully logged out.\"}",
+        "detail": "app.web.views.auth_views",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "app.web.views.auth_views",
+        "description": "app.web.views.auth_views",
+        "peekOfCode": "bp = Blueprint(\"auth\", __name__, url_prefix=\"/api/auth\")\n@bp.route(\"/user\", methods=[\"GET\"])\ndef get_user():\n    if g.user is not None:\n        return g.user.as_dict()\n    return jsonify(None)\n@bp.route(\"/signup\", methods=[\"POST\"])\ndef signup():\n    email = request.json.get(\"email\")\n    password = request.json.get(\"password\")",
+        "detail": "app.web.views.auth_views",
+        "documentation": {}
+    },
+    {
+        "label": "catch_all",
+        "kind": 2,
+        "importPath": "app.web.views.client_views",
+        "description": "app.web.views.client_views",
+        "peekOfCode": "def catch_all(path):\n    if path != \"\" and os.path.exists(os.path.join(current_app.static_folder, path)):\n        return send_from_directory(current_app.static_folder, path)\n    else:\n        return send_from_directory(current_app.static_folder, \"index.html\")",
+        "detail": "app.web.views.client_views",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "app.web.views.client_views",
+        "description": "app.web.views.client_views",
+        "peekOfCode": "bp = Blueprint(\n    \"client\",\n    __name__,\n)\n@bp.route(\"/\", defaults={\"path\": \"\"})\n@bp.route(\"/<path:path>\")\ndef catch_all(path):\n    if path != \"\" and os.path.exists(os.path.join(current_app.static_folder, path)):\n        return send_from_directory(current_app.static_folder, path)\n    else:",
+        "detail": "app.web.views.client_views",
+        "documentation": {}
+    },
+    {
+        "label": "list_conversations",
+        "kind": 2,
+        "importPath": "app.web.views.conversation_views",
+        "description": "app.web.views.conversation_views",
+        "peekOfCode": "def list_conversations(pdf):\n    return [c.as_dict() for c in pdf.conversations]\n@bp.route(\"/\", methods=[\"POST\"])\n@login_required\n@load_model(Pdf, lambda r: r.args.get(\"pdf_id\"))\ndef create_conversation(pdf):\n    conversation = Conversation.create(user_id=g.user.id, pdf_id=pdf.id)\n    return conversation.as_dict()\n@bp.route(\"/<string:conversation_id>/messages\", methods=[\"POST\"])\n@login_required",
+        "detail": "app.web.views.conversation_views",
+        "documentation": {}
+    },
+    {
+        "label": "create_conversation",
+        "kind": 2,
+        "importPath": "app.web.views.conversation_views",
+        "description": "app.web.views.conversation_views",
+        "peekOfCode": "def create_conversation(pdf):\n    conversation = Conversation.create(user_id=g.user.id, pdf_id=pdf.id)\n    return conversation.as_dict()\n@bp.route(\"/<string:conversation_id>/messages\", methods=[\"POST\"])\n@login_required\n@load_model(Conversation)\ndef create_message(conversation):\n    input = request.json.get(\"input\")\n    streaming = request.args.get(\"stream\", False)\n    pdf = conversation.pdf",
+        "detail": "app.web.views.conversation_views",
+        "documentation": {}
+    },
+    {
+        "label": "create_message",
+        "kind": 2,
+        "importPath": "app.web.views.conversation_views",
+        "description": "app.web.views.conversation_views",
+        "peekOfCode": "def create_message(conversation):\n    input = request.json.get(\"input\")\n    streaming = request.args.get(\"stream\", False)\n    pdf = conversation.pdf\n    chat_args = ChatArgs(\n        conversation_id=conversation.id,\n        pdf_id=pdf.id,\n        streaming=streaming,\n        metadata={\n            \"conversation_id\": conversation.id,",
+        "detail": "app.web.views.conversation_views",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "app.web.views.conversation_views",
+        "description": "app.web.views.conversation_views",
+        "peekOfCode": "bp = Blueprint(\"conversation\", __name__, url_prefix=\"/api/conversations\")\n@bp.route(\"/\", methods=[\"GET\"])\n@login_required\n@load_model(Pdf, lambda r: r.args.get(\"pdf_id\"))\ndef list_conversations(pdf):\n    return [c.as_dict() for c in pdf.conversations]\n@bp.route(\"/\", methods=[\"POST\"])\n@login_required\n@load_model(Pdf, lambda r: r.args.get(\"pdf_id\"))\ndef create_conversation(pdf):",
+        "detail": "app.web.views.conversation_views",
+        "documentation": {}
+    },
+    {
+        "label": "list",
+        "kind": 2,
+        "importPath": "app.web.views.pdf_views",
+        "description": "app.web.views.pdf_views",
+        "peekOfCode": "def list():\n    pdfs = Pdf.where(user_id=g.user.id)\n    return Pdf.as_dicts(pdfs)\n@bp.route(\"/\", methods=[\"POST\"])\n@login_required\n@handle_file_upload\ndef upload_file(file_id, file_path, file_name):\n    res, status_code = files.upload(file_path)\n    if status_code >= 400:\n        return res, status_code",
+        "detail": "app.web.views.pdf_views",
+        "documentation": {}
+    },
+    {
+        "label": "upload_file",
+        "kind": 2,
+        "importPath": "app.web.views.pdf_views",
+        "description": "app.web.views.pdf_views",
+        "peekOfCode": "def upload_file(file_id, file_path, file_name):\n    res, status_code = files.upload(file_path)\n    if status_code >= 400:\n        return res, status_code\n    pdf = Pdf.create(id=file_id, name=file_name, user_id=g.user.id)\n    # TODO: Defer this to be processed by the worker\n    process_document.delay(pdf.id)\n    return pdf.as_dict()\n@bp.route(\"/<string:pdf_id>\", methods=[\"GET\"])\n@login_required",
+        "detail": "app.web.views.pdf_views",
+        "documentation": {}
+    },
+    {
+        "label": "show",
+        "kind": 2,
+        "importPath": "app.web.views.pdf_views",
+        "description": "app.web.views.pdf_views",
+        "peekOfCode": "def show(pdf):\n    return jsonify(\n        {\n            \"pdf\": pdf.as_dict(),\n            \"download_url\": files.create_download_url(pdf.id),\n        }\n    )",
+        "detail": "app.web.views.pdf_views",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "app.web.views.pdf_views",
+        "description": "app.web.views.pdf_views",
+        "peekOfCode": "bp = Blueprint(\"pdf\", __name__, url_prefix=\"/api/pdfs\")\n@bp.route(\"/\", methods=[\"GET\"])\n@login_required\ndef list():\n    pdfs = Pdf.where(user_id=g.user.id)\n    return Pdf.as_dicts(pdfs)\n@bp.route(\"/\", methods=[\"POST\"])\n@login_required\n@handle_file_upload\ndef upload_file(file_id, file_path, file_name):",
+        "detail": "app.web.views.pdf_views",
+        "documentation": {}
+    },
+    {
+        "label": "update_score",
+        "kind": 2,
+        "importPath": "app.web.views.score_views",
+        "description": "app.web.views.score_views",
+        "peekOfCode": "def update_score(conversation):\n    score = request.json.get(\"score\")\n    if not isinstance(score, (int, float)) or score < -1 or score > 1:\n        raise BadRequest(\"Score must be a float between -1 and 1\")\n    score_conversation(\n        conversation.id,\n        score,\n        llm=conversation.llm,\n        retriever=conversation.retriever,\n        memory=conversation.memory,",
+        "detail": "app.web.views.score_views",
+        "documentation": {}
+    },
+    {
+        "label": "list_scores",
+        "kind": 2,
+        "importPath": "app.web.views.score_views",
+        "description": "app.web.views.score_views",
+        "peekOfCode": "def list_scores():\n    scores = get_scores()\n    return jsonify(scores)",
+        "detail": "app.web.views.score_views",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "app.web.views.score_views",
+        "description": "app.web.views.score_views",
+        "peekOfCode": "bp = Blueprint(\"score\", __name__, url_prefix=\"/api/scores\")\n@bp.route(\"/\", methods=[\"POST\"])\n@login_required\n@load_model(Conversation, lambda r: r.args.get(\"conversation_id\"))\ndef update_score(conversation):\n    score = request.json.get(\"score\")\n    if not isinstance(score, (int, float)) or score < -1 or score > 1:\n        raise BadRequest(\"Score must be a float between -1 and 1\")\n    score_conversation(\n        conversation.id,",
+        "detail": "app.web.views.score_views",
+        "documentation": {}
+    },
+    {
+        "label": "get_messages_by_conversation_id",
+        "kind": 2,
+        "importPath": "app.web.api",
+        "description": "app.web.api",
+        "peekOfCode": "def get_messages_by_conversation_id(\n    conversation_id: str,\n) -> AIMessage | HumanMessage | SystemMessage:\n    \"\"\"\n    Finds all messages that belong to the given conversation_id\n    :param conversation_id: The id of the conversation\n    :return: A list of messages\n    \"\"\"\n    messages = (\n        db.session.query(Message)",
+        "detail": "app.web.api",
+        "documentation": {}
+    },
+    {
+        "label": "add_message_to_conversation",
+        "kind": 2,
+        "importPath": "app.web.api",
+        "description": "app.web.api",
+        "peekOfCode": "def add_message_to_conversation(\n    conversation_id: str, role: str, content: str\n) -> Message:\n    \"\"\"\n    Creates and stores a new message tied to the given conversation_id\n        with the provided role and content\n    :param conversation_id: The id of the conversation\n    :param role: The role of the message\n    :param content: The content of the message\n    :return: The created message",
+        "detail": "app.web.api",
+        "documentation": {}
+    },
+    {
+        "label": "get_conversation_components",
+        "kind": 2,
+        "importPath": "app.web.api",
+        "description": "app.web.api",
+        "peekOfCode": "def get_conversation_components(conversation_id: str) -> Dict[str, str]:\n    \"\"\"\n    Returns the components used in a conversation\n    \"\"\"\n    conversation = Conversation.find_by(id=conversation_id)\n    return {\n        \"llm\": conversation.llm,\n        \"retriever\": conversation.retriever,\n        \"memory\": conversation.memory,\n    }",
+        "detail": "app.web.api",
+        "documentation": {}
+    },
+    {
+        "label": "set_conversation_components",
+        "kind": 2,
+        "importPath": "app.web.api",
+        "description": "app.web.api",
+        "peekOfCode": "def set_conversation_components(\n    conversation_id: str, llm: str, retriever: str, memory: str\n) -> None:\n    \"\"\"\n    Sets the components used by a conversation\n    \"\"\"\n    conversation = Conversation.find_by(id=conversation_id)\n    conversation.update(llm=llm, retriever=retriever, memory=memory)",
+        "detail": "app.web.api",
+        "documentation": {}
+    },
+    {
+        "label": "_Download",
+        "kind": 6,
+        "importPath": "app.web.files",
+        "description": "app.web.files",
+        "peekOfCode": "class _Download:\n    def __init__(self, file_id):\n        self.file_id = file_id\n        self.temp_dir = tempfile.TemporaryDirectory()\n        self.file_path = \"\"\n    def download(self):\n        self.file_path = os.path.join(self.temp_dir.name, self.file_id)\n        response = requests.get(create_download_url(self.file_id), stream=True)\n        with open(self.file_path, \"wb\") as file:\n            for chunk in response.iter_content(chunk_size=8192):",
+        "detail": "app.web.files",
+        "documentation": {}
+    },
+    {
+        "label": "upload",
+        "kind": 2,
+        "importPath": "app.web.files",
+        "description": "app.web.files",
+        "peekOfCode": "def upload(local_file_path: str) -> Tuple[Dict[str, str], int]:\n    with open(local_file_path, \"rb\") as f:\n        response = requests.post(upload_url, files={\"file\": f})\n        return json.loads(response.text), response.status_code\ndef create_download_url(file_id):\n    return f\"{Config.UPLOAD_URL}/download/{file_id}\"\ndef download(file_id):\n    return _Download(file_id)\nclass _Download:\n    def __init__(self, file_id):",
+        "detail": "app.web.files",
+        "documentation": {}
+    },
+    {
+        "label": "create_download_url",
+        "kind": 2,
+        "importPath": "app.web.files",
+        "description": "app.web.files",
+        "peekOfCode": "def create_download_url(file_id):\n    return f\"{Config.UPLOAD_URL}/download/{file_id}\"\ndef download(file_id):\n    return _Download(file_id)\nclass _Download:\n    def __init__(self, file_id):\n        self.file_id = file_id\n        self.temp_dir = tempfile.TemporaryDirectory()\n        self.file_path = \"\"\n    def download(self):",
+        "detail": "app.web.files",
+        "documentation": {}
+    },
+    {
+        "label": "download",
+        "kind": 2,
+        "importPath": "app.web.files",
+        "description": "app.web.files",
+        "peekOfCode": "def download(file_id):\n    return _Download(file_id)\nclass _Download:\n    def __init__(self, file_id):\n        self.file_id = file_id\n        self.temp_dir = tempfile.TemporaryDirectory()\n        self.file_path = \"\"\n    def download(self):\n        self.file_path = os.path.join(self.temp_dir.name, self.file_id)\n        response = requests.get(create_download_url(self.file_id), stream=True)",
+        "detail": "app.web.files",
+        "documentation": {}
+    },
+    {
+        "label": "upload_url",
+        "kind": 5,
+        "importPath": "app.web.files",
+        "description": "app.web.files",
+        "peekOfCode": "upload_url = f\"{Config.UPLOAD_URL}/upload\"\ndef upload(local_file_path: str) -> Tuple[Dict[str, str], int]:\n    with open(local_file_path, \"rb\") as f:\n        response = requests.post(upload_url, files={\"file\": f})\n        return json.loads(response.text), response.status_code\ndef create_download_url(file_id):\n    return f\"{Config.UPLOAD_URL}/download/{file_id}\"\ndef download(file_id):\n    return _Download(file_id)\nclass _Download:",
+        "detail": "app.web.files",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "peekOfCode": "def load_model(Model: Model, extract_id_lambda=None):\n    def decorator(view):\n        @functools.wraps(view)\n        def wrapped_view(**kwargs):\n            model_name = Model.__name__.lower()\n            model_id_name = f\"{model_name}_id\"\n            model_id = kwargs.get(model_id_name)\n            if extract_id_lambda:\n                model_id = extract_id_lambda(request)\n            if not model_id:",
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "kind": 2,
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "peekOfCode": "def login_required(view):\n    @functools.wraps(view)\n    def wrapped_view(**kwargs):\n        if g.user is None:\n            return {\"message\": \"Unauthorized\"}, 401\n        return view(**kwargs)\n    return wrapped_view\ndef add_headers(response):\n    response.headers[\"Cache-Control\"] = \"no-cache, no-store, must-revalidate\"\n    return response",
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "add_headers",
+        "kind": 2,
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "peekOfCode": "def add_headers(response):\n    response.headers[\"Cache-Control\"] = \"no-cache, no-store, must-revalidate\"\n    return response\ndef load_logged_in_user():\n    user_id = session.get(\"user_id\")\n    if user_id is None:\n        g.user = None\n    else:\n        try:\n            g.user = User.find_by(id=user_id)",
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "load_logged_in_user",
+        "kind": 2,
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "peekOfCode": "def load_logged_in_user():\n    user_id = session.get(\"user_id\")\n    if user_id is None:\n        g.user = None\n    else:\n        try:\n            g.user = User.find_by(id=user_id)\n        except Exception:\n            g.user = None\ndef handle_file_upload(fn):",
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "handle_file_upload",
+        "kind": 2,
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "peekOfCode": "def handle_file_upload(fn):\n    @functools.wraps(fn)\n    def wrapped(*args, **kwargs):\n        file = request.files[\"file\"]\n        file_id = str(uuid.uuid4())\n        with tempfile.TemporaryDirectory() as temp_dir:\n            file_path = os.path.join(temp_dir, file_id)\n            file.save(file_path)\n            kwargs[\"file_id\"] = file_id\n            kwargs[\"file_path\"] = file_path",
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "handle_error",
+        "kind": 2,
+        "importPath": "app.web.hooks",
+        "description": "app.web.hooks",
+        "peekOfCode": "def handle_error(err):\n    if isinstance(err, IntegrityError):\n        logging.error(err)\n        return {\"message\": \"In use\"}, 400\n    elif isinstance(err, NoResultFound):\n        logging.error(err)\n        return {\"message\": \"Not found\"}, 404\n    elif isinstance(err, Unauthorized):\n        logging.error(err)\n        return {\"message\": err.description}, 401",
+        "detail": "app.web.hooks",
+        "documentation": {}
+    },
+    {
+        "label": "dev",
+        "kind": 2,
+        "importPath": "tasks",
+        "description": "tasks",
+        "peekOfCode": "def dev(ctx):\n    ctx.run(\n        \"flask --app app.web run --debug --port 8000\",\n        pty=os.name != \"nt\",\n        env={\"APP_ENV\": \"development\"},\n    )\n@task\ndef devworker(ctx):\n    ctx.run(\n        \"watchmedo auto-restart --directory=./app --pattern=*.py --recursive -- celery -A app.celery.worker worker --concurrency=1 --loglevel=INFO --pool=solo\",",
+        "detail": "tasks",
+        "documentation": {}
+    },
+    {
+        "label": "devworker",
+        "kind": 2,
+        "importPath": "tasks",
+        "description": "tasks",
+        "peekOfCode": "def devworker(ctx):\n    ctx.run(\n        \"watchmedo auto-restart --directory=./app --pattern=*.py --recursive -- celery -A app.celery.worker worker --concurrency=1 --loglevel=INFO --pool=solo\",\n        pty=os.name != \"nt\",\n        env={\"APP_ENV\": \"development\"},\n    )",
+        "detail": "tasks",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingHandler",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class StreamingHandler(BaseCallbackHandler):\n    def __init__(self,queue):\n        self.queue = queue\n    def on_llm_new_token(self,token, **kwargs):\n        #print(token)\n        self.queue.put(token)\n    def on_llm_end(self, response, **kwargs):\n        self.queue.put(None)\n    def on_llm_error(self, error, **kwargs):\n        self.queue.put(None)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "StreamableChain",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class StreamableChain:\n    def stream(self,input):\n        # print((self(input)))\n        # yield 'hi'\n        # yield 'there'\n        queue =  Queue()\n        handler = StreamingHandler(queue)\n        def task():\n            self(input,callbacks=[handler])\n        Thread(target=task).start()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingChain",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class StreamingChain(StreamableChain, LLMChain):\n    pass\nchain =  StreamingChain(llm=chat, prompt=prompt)\nfor output in chain.stream(input={\"content\":\"tell me a joke\"}):\n    print(output)\n# chain = LLMChain(\n#     llm=chat,\n#     prompt=prompt\n# )\n# output = chain(\"tell me a joke\")",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "#queue",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "#queue =  Queue()\nclass StreamingHandler(BaseCallbackHandler):\n    def __init__(self,queue):\n        self.queue = queue\n    def on_llm_new_token(self,token, **kwargs):\n        #print(token)\n        self.queue.put(token)\n    def on_llm_end(self, response, **kwargs):\n        self.queue.put(None)\n    def on_llm_error(self, error, **kwargs):",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "prompt = ChatPromptTemplate.from_messages([\n        (\"human:{content}\")\n    ]\n)\nclass StreamableChain:\n    def stream(self,input):\n        # print((self(input)))\n        # yield 'hi'\n        # yield 'there'\n        queue =  Queue()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "chain =  StreamingChain(llm=chat, prompt=prompt)\nfor output in chain.stream(input={\"content\":\"tell me a joke\"}):\n    print(output)\n# chain = LLMChain(\n#     llm=chat,\n#     prompt=prompt\n# )\n# output = chain(\"tell me a joke\")\n# print(output)\n# # messages = prompt.format_messages(content=\"tell me a joke\")",
+        "detail": "test",
+        "documentation": {}
+    }
+]
